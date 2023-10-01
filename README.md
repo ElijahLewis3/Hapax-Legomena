@@ -18,3 +18,6 @@ Options:
 -l <N> : only print hapax legomena of length <N>.
        : If no -l option is given, all hapax legomena are printed.
 ```
+
+Running the program will print out the hapax legomenon from one or more data files (of only the desired length if
+indicated).
