@@ -8,6 +8,7 @@ occurs only once in an entire document
 # Intended Program Function
 Our program will take information from the command line in order to determine how it operates. The usage key for our
 program is this:
+```
 Usage:
 hapax [<options>] <datafile> [ <datafile> ...]
 Options:
@@ -15,3 +16,4 @@ Options:
 -h : this help. You are looking at it.
 -l <N> : only print hapax legomena of length <N>.
 : If no -l option is given, all hapax legomena are printed.
+```
