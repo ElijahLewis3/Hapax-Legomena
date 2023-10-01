@@ -21,6 +21,7 @@ indicated).
 
 # Running The Program
 After cloning the repository run the comman ```make``` followed by
+
 ```./bin/hapax [<options>] /src/data<datafile> [<datafile> ...]```
 The use of [ ] brackets indicates an optional item, and items in < > brackets
 indicate a value. This means that the above is saying that all of the options are, well, optional; the “<datafile>” arguments
